@@ -45,7 +45,7 @@
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
     },
     {
-      "chainId": 690,
+      "chainId": 360,
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
       "name": "Wrapped Ether",
@@ -53,7 +53,7 @@
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
     },
     {
-      "chainId": 690,
+      "chainId": 360,
       "address": "0xdb7DD8B00EdC5778Fe00B2408bf35C7c054f8BBe",
       "symbol": "USDC",
       "name": "USDC",
