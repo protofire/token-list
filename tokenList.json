@@ -2,14 +2,14 @@
   "name": "Swap Token List",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "",
   "keywords": [
     "tokens"
   ],
-  "timestamp": "2025-09-05T16:00:00Z",
+  "timestamp": "2025-09-16T14:10:00Z",
 
   "tokens": [
     {
@@ -29,20 +29,239 @@
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
     },
     {
-      "chainId": 2741,
+      "name": "Wrapped Ether",
       "address": "0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
       "symbol": "WETH",
-      "name": "Wrapped Ether",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x3439153EB7AF838Ad19d56E1571FBD09333C2809.png"
     },
     {
-      "chainId": 2741,
+      "name": "USDC.e",
       "address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
       "symbol": "USDC.e",
-      "name": "Bridged USDC",
+      "decimals": 6,
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x0709F39376dEEe2A2dfC94A58EdEb2Eb9DF012bD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x0709F39376dEEe2A2dfC94A58EdEb2Eb9DF012bD.png"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "address": "0x9eBe3A824Ca958e4b3Da772D2065518F009CBa62",
+      "symbol": "PENGU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x9eBe3A824Ca958e4b3Da772D2065518F009CBa62.png"
+    },
+    {
+      "name": "Frax Ether",
+      "address": "0xc7Ab797019156b543B7a3fBF5A99ECDab9eb4440",
+      "symbol": "frxETH",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xc7Ab797019156b543B7a3fBF5A99ECDab9eb4440.png"
+    },
+    {
+      "name": "Staked Frax USD",
+      "address": "0x9F87fbb47C33Cd0614E43500b9511018116F79eE",
+      "symbol": "sfrxUSD",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x9F87fbb47C33Cd0614E43500b9511018116F79eE.png"
+    },
+    {
+      "name": "Frax Share",
+      "address": "0xAf01aE13Fb67AD2bb2D76f29A83961069a5F245F",
+      "symbol": "FXS",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xAf01aE13Fb67AD2bb2D76f29A83961069a5F245F.png"
+    },
+    {
+      "name": "Abstract Liquid Staked Token",
+      "address": "0xa8726bD058Bea1973B61a9BC2a5E0e605B797307",
+      "symbol": "absETH",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xa8726bD058Bea1973B61a9BC2a5E0e605B797307.png"
+    },
+    {
+      "name": "Frax USD",
+      "address": "0xEa77c590Bb36c43ef7139cE649cFBCFD6163170d",
+      "symbol": "frxUSD",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xEa77c590Bb36c43ef7139cE649cFBCFD6163170d.png"
+    },
+    {
+      "name": "KAP Games",
+      "address": "0x7d597148d32738CfFA4d3D503437bFf7e6EB38b2",
+      "symbol": "KAP",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x7d597148d32738CfFA4d3D503437bFf7e6EB38b2.png"
+    },
+    {
+      "name": "HERO",
+      "address": "0x33EE11cE309854a45B65368C078616ABcb5c6e3d",
+      "symbol": "HERO",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x33EE11cE309854a45B65368C078616ABcb5c6e3d.png"
+    },
+    {
+      "name": "Thank You Abstract God",
+      "address": "0x0A2C776E4F9017ca0679e6064d2f99Cf397b6457",
+      "symbol": "TYAG",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x0A2C776E4F9017ca0679e6064d2f99Cf397b6457.png"
+    },
+    {
+      "name": "RETSBA",
+      "address": "0x52629ddBf28AA01Aa22B994Ec9c80273e4Eb5B0A",
+      "symbol": "RETSBA",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x52629ddBf28AA01Aa22B994Ec9c80273e4Eb5B0A.png"
+    },
+    {
+      "name": "Luca Netz's Dog",
+      "address": "0x775fEc18BE7B2E71c1A20C22f89A697D07C04399",
+      "symbol": "BANDIT",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x775fEc18BE7B2E71c1A20C22f89A697D07C04399.png"
+    },
+    {
+      "name": "Yield Guild Games Token",
+      "address": "0xa9053DC939D74222F7aa0B3A2bE407abbfd56C6a",
+      "symbol": "YGG",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xa9053DC939D74222F7aa0B3A2bE407abbfd56C6a.png"
+    },
+    {
+      "name": "DITH'S CAT",
+      "address": "0x1cd6Edb761eD1d68C3cc3C5b9B3e9460887fD139",
+      "symbol": "CYCLOPS",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x1cd6Edb761eD1d68C3cc3C5b9B3e9460887fD139.png"
+    },
+    {
+      "name": "Rich Whale Alliance",
+      "address": "0xAf31d07AF1602Dfce07Fba81BcA5F9570CA83983",
+      "symbol": "RWA",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xAf31d07AF1602Dfce07Fba81BcA5F9570CA83983.png"
+    },
+    {
+      "name": "Rekt",
+      "address": "0xd63b0E99303D51713f947195Bf37188A943255A1",
+      "symbol": "REKT",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xd63b0E99303D51713f947195Bf37188A943255A1.png"
+    },
+    {
+      "name": "PURGY PENGOON",
+      "address": "0xdC70311f4B19774828aA4a57520a7153AF5E58a5",
+      "symbol": "GOONER",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xdC70311f4B19774828aA4a57520a7153AF5E58a5.png"
+    },
+    {
+      "name": "The Dyslexic Dog",
+      "address": "0x3D72DDD35cadb4e5B22CDB20b36f98077BE84284",
+      "symbol": "GOD",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x3D72DDD35cadb4e5B22CDB20b36f98077BE84284.png"
+    },
+    {
+      "name": "PenguinGotchi",
+      "address": "0x809F0620dCDBD1a4F009619035fcb12893D6AaaF",
+      "symbol": "GOTCHI",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x809F0620dCDBD1a4F009619035fcb12893D6AaaF.png"
+    },
+    {
+      "name": "BEARY",
+      "address": "0x75fdeF6C412e22Bd561F671d7c4d4899859F94ba",
+      "symbol": "BEARY",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x75fdeF6C412e22Bd561F671d7c4d4899859F94ba.png"
+    },
+    {
+      "name": "MEOW",
+      "address": "0xB3E26E14eD8342678E819A397d4ab0bCd5b54560",
+      "symbol": "MEOW",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xB3E26E14eD8342678E819A397d4ab0bCd5b54560.png"
+    },
+    {
+      "name": "Pico",
+      "address": "0x60ED5CE0D66554AC63EDD35F4F91181f747Ae8C6",
+      "symbol": "PICO",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x60ED5CE0D66554AC63EDD35F4F91181f747Ae8C6.png"
+    },
+    {
+      "name": "GENIE",
+      "address": "0xEd753a999Dc82fb09291185b6E432C166E1FEFf2",
+      "symbol": "GENIE",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xEd753a999Dc82fb09291185b6E432C166E1FEFf2.png"
+    },
+    {
+      "name": "Grind",
+      "address": "0x1C26DA604221466976bEeB509698152bA8A3A13F",
+      "symbol": "GRIND",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x1C26DA604221466976bEeB509698152bA8A3A13F.png"
+    },
+    {
+      "name": "SMP7700",
+      "address": "0xf800a81B454c666390Cf7b61462c9B18dE23ada8",
+      "symbol": "SMP",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xf800a81B454c666390Cf7b61462c9B18dE23ada8.png"
+    },
+    {
+      "name": "Captain & Company",
+      "address": "0xD3844AcCa3562b52a22e46fb56C5c29b621b0d33",
+      "symbol": "CNC",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xD3844AcCa3562b52a22e46fb56C5c29b621b0d33.svg"
+    },
+    {
+      "name": "Noot Noot",
+      "address": "0x85Ca16Fd0e81659e0b8Be337294149E722528731",
+      "symbol": "NOOT",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x85Ca16Fd0e81659e0b8Be337294149E722528731.png"
+    },
+    {
+      "name": "ABSTER",
+      "address": "0xc325b7e2736A5202bd860F5974D0AA375E57EdE5",
+      "symbol": "ABSTER",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xc325b7e2736A5202bd860F5974D0AA375E57EdE5.png"
+    },
+    {
+      "name": "Pengus Wife",
+      "address": "0x987CF44F3F5d854eC0703123d7fD003a8b56eBb4",
+      "symbol": "Polly",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x987CF44F3F5d854eC0703123d7fD003a8b56eBb4.png"
+    },
+    {
+      "name": "CHENGU",
+      "address": "0xd045e0686A784e272E651Fc2C08324edABE7403A",
+      "symbol": "CHENGU",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xd045e0686A784e272E651Fc2C08324edABE7403A.png"
+    },
+    {
+      "name": "Bigcoin",
+      "address": "0xDf70075737E9F96B078ab4461EeE3e055E061223",
+      "symbol": "BIG",
+      "chainId": 2741,
+      "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xDf70075737E9F96B078ab4461EeE3e055E061223.png"
     },
     {
       "chainId": 360,
