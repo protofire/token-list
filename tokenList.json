@@ -45,20 +45,146 @@
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
     },
     {
-      "chainId": 360,
-      "address": "0x4200000000000000000000000000000000000006",
-      "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 360,
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
     },
     {
-      "chainId": 360,
-      "address": "0xdb7DD8B00EdC5778Fe00B2408bf35C7c054f8BBe",
-      "symbol": "USDC",
-      "name": "USDC",
+      "name": "Bridged USDC (shape-mainnet)",
       "decimals": 6,
+      "symbol": "USDC.e",
+      "address": "0xdb7dd8b00edc5778fe00b2408bf35c7c054f8bbe",
+      "chainId": 360,
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
+    },
+    {
+      "name": "",
+      "decimals": 0,
+      "symbol": "",
+      "address": "0x4200000000000000000000000000000000000042",
+      "chainId": 360
+    },
+    {
+      "name": "GHGH",
+      "decimals": 18,
+      "symbol": "HF",
+      "address": "0xad4133910d6079028039819e10d522983615d69d",
+      "chainId": 360
+    },
+    {
+      "name": "Aaa",
+      "decimals": 18,
+      "symbol": "Aaa",
+      "address": "0x99ed319a4f728868b784037bbcbb02ac97831614",
+      "chainId": 360
+    },
+    {
+      "name": "ARTEM Coin",
+      "decimals": 18,
+      "symbol": "ARTEM",
+      "address": "0x9b83f827928abdf18cf1f7e67053572b9bceff3a",
+      "chainId": 360
+    },
+    {
+      "name": "test-RBTV-ist-cool2111",
+      "decimals": 18,
+      "symbol": "",
+      "address": "0xcc1e543fab81e138bfcc4a089ce877f07881902e",
+      "chainId": 360
+    },
+    {
+      "name": "Shape Pepe",
+      "decimals": 18,
+      "symbol": "SHAPEPE",
+      "address": "0xa096a5a05c9fd4aa07a0d2b4c65a82bf12971b4b",
+      "chainId": 360
+    },
+    {
+      "name": "Mesh",
+      "decimals": 18,
+      "symbol": "",
+      "address": "0xa407a05fbb6fa921f8d8571ffe82bde66d1249bb",
+      "chainId": 360
+    },
+    {
+      "name": "",
+      "decimals": 0,
+      "symbol": "",
+      "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
+      "chainId": 360
+    },
+    {
+      "name": "ShapeShiftV2",
+      "decimals": 18,
+      "symbol": "SHIFTV2",
+      "address": "0xb3b2b7378f73a18c5a299d7f9fc8183b59d8df75",
+      "chainId": 360
+    },
+    {
+      "name": "test_4jf9340jg9485jf45433eeeeeeeeeexxxxxxx",
+      "decimals": 18,
+      "symbol": "",
+      "address": "0xeb56ec3e6f5ddc0e8aec02bb5c6e428bd4bda143",
+      "chainId": 360
+    },
+    {
+      "name": "Energy",
+      "decimals": 18,
+      "symbol": "NRG",
+      "address": "0x42276df82bab34c3ccca9e5c058b6ff7ea4d07e3",
+      "chainId": 360
+    },
+    {
+      "name": "Circle",
+      "decimals": 18,
+      "symbol": "O",
+      "address": "0x96db3e22fdac25c0dff1cab92ae41a697406db7d",
+      "chainId": 360
+    },
+    {
+      "name": "Triangle",
+      "decimals": 18,
+      "symbol": "T",
+      "address": "0x964ca3e4379420de6a095919236467bed6745502",
+      "chainId": 360
+    },
+    {
+      "name": "",
+      "decimals": 0,
+      "symbol": "",
+      "address": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
+      "chainId": 360
+    },
+    {
+      "name": "ShapeCat",
+      "decimals": 18,
+      "symbol": "SCAT",
+      "address": "0xc7406425895e5c24688da7e26b75cce671d9d652",
+      "chainId": 360
+    },
+    {
+      "name": "test_alien-nr-55567842123222222211",
+      "decimals": 18,
+      "symbol": "",
+      "address": "0xa24f6cdaef838124d0e2c805a51eab5b113386a3",
+      "chainId": 360
+    },
+    {
+      "name": "test_4jf9340jg9485jf45433",
+      "decimals": 18,
+      "symbol": "",
+      "address": "0xe59ce02b834525181439c2756bef5460cc625ab1",
+      "chainId": 360
+    },
+    {
+      "name": "HIJUL",
+      "decimals": 18,
+      "symbol": "HIJUL",
+      "address": "0x50328ec1b31c5eef59906616355f57ea87a45c01",
+      "chainId": 360
     }
   ]
 }
