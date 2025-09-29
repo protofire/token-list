@@ -1,0 +1,96 @@
+{
+   "name":"Zero Token List",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   },
+   "logoURI":"",
+   "keywords":[
+      "tokens"
+   ],
+   "timestamp":"2025-09-29T16:00:00Z",
+   "tokens":[
+      {
+         "name":"USD Coin",
+         "decimals":6,
+         "symbol":"USDC",
+         "address":"0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+         "chainId":543210,
+         "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
+      },
+      {
+         "name":"Wrapped Ether",
+         "decimals":18,
+         "symbol":"WETH",
+         "address":"0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+         "chainId":543210,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
+      },
+      {
+         "name":"Tether USD",
+         "decimals":6,
+         "symbol":"USDT",
+         "address":"0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+         "chainId":543210,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/USDT.png"
+      },
+      {
+         "name":"Wrapped BTC",
+         "decimals":8,
+         "symbol":"WBTC",
+         "address":"0xf1f9e08a0818594fde4713ae0db1e46672ca960e",
+         "chainId":543210,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/WBTC.png"
+      },
+      {
+         "name":"ColonyToken",
+         "decimals":18,
+         "symbol":"CLNY",
+         "address":"0x1a90dd3dd89e2d2095ed1b40ecc1fe2bbb7614a1",
+         "chainId":543210
+      },
+      {
+         "name":"DLP_a0b3323b",
+         "decimals":18,
+         "symbol":"DLP",
+         "address":"0xa0b3323b676b8812bf8aa9e33fcbce05320a25d9",
+         "chainId":543210
+      },
+      {
+         "name":"1226xp",
+         "decimals":18,
+         "symbol":"1226",
+         "address":"0xe99e3715d621ec2c4be91841ea73e0dc4035af8a",
+         "chainId":543210
+      },
+      {
+         "name":"Moonkey",
+         "decimals":18,
+         "symbol":"Moonkey",
+         "address":"0xe2faaf383b8c8214fb37c8194141d585a9ce1563",
+         "chainId":543210
+      },
+      {
+         "name":"Transcending Boundaries",
+         "decimals":18,
+         "symbol":"UNITY",
+         "address":"0xf6c366213c452f4cbe99fa121d194dfc30802bb7",
+         "chainId":543210
+      },
+      {
+         "name":"Tee Coin",
+         "decimals":18,
+         "symbol":"TC",
+         "address":"0xfb7c5353b967c9fde4fb47e56f32d13accc6d4af",
+         "chainId":543210
+      },
+      {
+         "name":"Cube",
+         "decimals":18,
+         "symbol":"CB",
+         "address":"0x2669be71e9455ed21c09eabf259dc5db1a84df15",
+         "chainId":543210
+      }
+   ]
+}
