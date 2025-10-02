@@ -41,6 +41,15 @@
       "address": "0x021b4eb025aff42298331739c2564abde4bae3eb",
       "chainId": 69000,
       "logoURI": "https://assets.coingecko.com/coins/images/53575/large/anime.jpg"
+    },
+    {
+      "name": "Bridged USDC",
+      "decimals": 18,
+      "symbol": "USDC.e
+",
+      "address": "0x401ecb1d350407f13ba348573e5630b83638e30d",
+      "chainId": 69000,
+      "logoURI": "https://assets.coingecko.com/coins/images/53575/large/usdc.jpg"
     }
   ]
 }
