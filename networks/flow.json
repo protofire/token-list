@@ -1,0 +1,47 @@
+{
+   "name":"Flow Swap Token List",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   },
+   "logoURI":"",
+   "keywords":[
+      "tokens"
+   ],
+   "timestamp":"2025-09-26T12:00:00Z",
+   "tokens":[
+      {
+         "name":"Wrapped Flow",
+         "address":"0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+         "symbol":"WFLOW",
+         "decimals":18,
+         "chainId":545,
+         "logoURI":"https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/testnet%3A0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e/logo.svg"
+      },
+      {
+         "name":"USDCf",
+         "address":"0x5e65b6B04fbA51D95409712978Cb91E99d93aE73",
+         "symbol":"USDCf",
+         "decimals":6,
+         "chainId":545,
+         "logoURI":"https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED/logo.png"
+      },
+      {
+         "name":"Wrapped Flow",
+         "address":"0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+         "symbol":"WFLOW",
+         "decimals":18,
+         "chainId":747,
+         "logoURI":"https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e/logo.svg"
+      },
+      {
+         "name":"USD Flow",
+         "address":"0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED",
+         "symbol":"USDF",
+         "decimals":6,
+         "chainId":747,
+         "logoURI":"https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED/logo.png"
+      }
+   ]
+}
