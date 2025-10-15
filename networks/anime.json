@@ -3,13 +3,13 @@
   "version":{
     "major":2,
     "minor":1,
-    "patch":2
+    "patch":3
   },
   "logoURI":"",
   "keywords":[
     "tokens"
   ],
-  "timestamp":"2025-10-15T10:00:00Z",
+  "timestamp":"2025-10-15T10:30:00Z",
   "tokens": [
     {
       "name": "Wrapped Anime",
@@ -18,14 +18,6 @@
       "address": "0x164906a76f1a2ea933366c446ae0ec6a37062c42",
       "chainId": 69000,
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WANIME.jpg"
-    },
-    {
-      "name": "Wrapped Anime",
-      "decimals": 18,
-      "symbol": "USDT",
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 69000,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDT.png"
     },
     {
       "name": "Bridged USDC",
