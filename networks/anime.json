@@ -3,29 +3,21 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":0
+    "patch":1
   },
   "logoURI":"",
   "keywords":[
     "tokens"
   ],
-  "timestamp":"2025-10-01T10:00:00Z",
+  "timestamp":"2025-10-15T10:00:00Z",
   "tokens": [
-    {
-      "name": "Anime",
-      "decimals": 18,
-      "symbol": "ANIME",
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 69000,
-      "logoURI": "https://assets.coingecko.com/coins/images/53575/large/anime.jpg"
-    },
     {
       "name": "Wrapped Anime",
       "decimals": 18,
       "symbol": "WANIME",
       "address": "0x164906a76f1a2ea933366c446ae0ec6a37062c42",
       "chainId": 69000,
-      "logoURI": "https://assets.coingecko.com/coins/images/53575/large/anime.jpg"
+      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WANIME.jpg"
     },
     {
       "name": "Bridged USDC",
@@ -33,7 +25,7 @@
       "symbol": "USDC.e",
       "address": "0x401ecb1d350407f13ba348573e5630b83638e30d",
       "chainId": 69000,
-      "logoURI": "https://assets.coingecko.com/coins/images/53575/large/usdc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
     }
   ]
 }
