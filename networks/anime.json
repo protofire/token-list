@@ -1,7 +1,7 @@
 {
   "name":"Anime Token List",
   "version":{
-    "major":3,
+    "major":4,
     "minor":3,
     "patch":2
   },
@@ -18,14 +18,6 @@
       "address": "0x164906a76f1a2ea933366c446ae0ec6a37062c42",
       "chainId": 69000,
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WANIME.jpg"
-    },
-    {
-      "name": "Wrapped Anime",
-      "decimals": 18,
-      "symbol": "USDT",
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 69000,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDT.png"
     },
     {
       "name": "Bridged USDC",
