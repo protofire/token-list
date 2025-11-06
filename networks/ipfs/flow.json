@@ -58,6 +58,21 @@
          "decimals":6,
          "chainId":747,
          "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/stgUSDC.png"
+      },
+      {
+         "name":"Wrapped BTC",
+         "address":"0x717DAE2BaF7656BE9a9B01deE31d571a9d4c9579",
+         "symbol":"WBTC",
+         "decimals":8,
+         "chainId":747,
+         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmVViKQAt1zP2uSKmuron7kUeD8RHpHd92CQZeTP8u4Rz6"
+      },
+      {
+         "name":"FlowALP USD",
+         "address":"0x213979bB8A9A86966999b3AA797C1fcf3B967ae2",
+         "symbol":"MOET",
+         "decimals":18,
+         "chainId":747
       }
    ]
 }
