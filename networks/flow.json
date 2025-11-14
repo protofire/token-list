@@ -52,9 +52,9 @@
          "logoURI":"https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
       },
       {
-         "name":"Bridged USDC (Stargate)",
+         "name":"USDC",
          "address":"0xF1815bd50389c46847f0Bda824eC8da914045D14",
-         "symbol":"stgUSDC",
+         "symbol":"USDC",
          "decimals":6,
          "chainId":747,
          "logoURI":"https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0xF1815bd50389c46847f0Bda824eC8da914045D14/logo.png"
