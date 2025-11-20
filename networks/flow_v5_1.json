@@ -1,15 +1,15 @@
 {
    "name":"Flow Swap Token List",
    "version":{
-      "major":3,
-      "minor":0,
+      "major":5,
+      "minor":1,
       "patch":0
    },
    "logoURI":"",
    "keywords":[
       "tokens"
    ],
-   "timestamp":"2025-10-28T12:00:00Z",
+   "timestamp":"2025-11-20T12:00:00Z",
    "tokens":[
       {
          "name":"Wrapped Flow",
@@ -17,7 +17,7 @@
          "symbol":"WFLOW",
          "decimals":18,
          "chainId":545,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/FLOW.svg"
+         "logoURI":"https://assets.swap.w3us.site/assets/WFLOW.svg"
       },
       {
          "name":"USDCf",
@@ -25,7 +25,7 @@
          "symbol":"USDCf",
          "decimals":6,
          "chainId":545,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/USDCf.png"
+         "logoURI":"https://assets.swap.w3us.site/assets/USDCf.png"
       },
       {
          "name":"Wrapped Flow",
@@ -33,7 +33,7 @@
          "symbol":"WFLOW",
          "decimals":18,
          "chainId":747,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/FLOW.svg"
+         "logoURI":"https://assets.swap.w3us.site/assets/WFLOW.svg"
       },
       {
          "name":"USD Flow",
@@ -41,7 +41,7 @@
          "symbol":"USDF",
          "decimals":6,
          "chainId":747,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/USDCf.png"
+         "logoURI":"https://assets.swap.w3us.site/assets/USDCf.png"
       },
       {
          "name":"WETH",
@@ -49,15 +49,15 @@
          "symbol":"WETH",
          "decimals":18,
          "chainId":747,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/WETH.png"
+         "logoURI":"https://assets.swap.w3us.site/assets/WETH.png"
       },
       {
-         "name":"Bridged USDC (Stargate)",
+         "name":"USDC",
          "address":"0xF1815bd50389c46847f0Bda824eC8da914045D14",
-         "symbol":"stgUSDC",
+         "symbol":"USDC",
          "decimals":6,
          "chainId":747,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmNSxX56jxzC7zYtQ81ueM4FyXb21QhEqYF6Bdx1bekJdA/stgUSDC.png"
+         "logoURI":"https://assets.swap.w3us.site/assets/USDC.png"
       },
       {
          "name":"Wrapped BTC",
@@ -65,14 +65,23 @@
          "symbol":"WBTC",
          "decimals":8,
          "chainId":747,
-         "logoURI":"https://cyan-legislative-leech-117.mypinata.cloud/ipfs/QmVViKQAt1zP2uSKmuron7kUeD8RHpHd92CQZeTP8u4Rz6"
+         "logoURI":"https://assets.swap.w3us.site/assets/WBTC.png"
       },
       {
          "name":"FlowALP USD",
          "address":"0x213979bB8A9A86966999b3AA797C1fcf3B967ae2",
          "symbol":"MOET",
          "decimals":18,
-         "chainId":747
+         "chainId":747,
+         "logoURI":"https://assets.swap.w3us.site/assets/MOET.png"
+      },
+      {
+         "name":"Tau Labs USDF Vault",
+         "address":"0xc52E820d2D6207D18667a97e2c6Ac22eB26E803c",
+         "symbol":"tauUSDFv",
+         "decimals":8,
+         "chainId":747,
+         "logoURI":"https://assets.swap.w3us.site/assets/tauUSDFv.png"
       }
    ]
 }
