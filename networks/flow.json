@@ -1,7 +1,7 @@
 {
    "name":"Flow Swap Token List",
    "version":{
-      "major":4,
+      "major":5,
       "minor":1,
       "patch":0
    },
@@ -9,7 +9,7 @@
    "keywords":[
       "tokens"
    ],
-   "timestamp":"2025-11-17T12:00:00Z",
+   "timestamp":"2025-11-20T12:00:00Z",
    "tokens":[
       {
          "name":"Wrapped Flow",
@@ -72,7 +72,16 @@
          "address":"0x213979bB8A9A86966999b3AA797C1fcf3B967ae2",
          "symbol":"MOET",
          "decimals":18,
-         "chainId":747
+         "chainId":747,
+         "logoURI":"https://assets.swap.w3us.site/assets/MOET.png"
+      },
+      {
+         "name":"Tau Labs USDF Vault",
+         "address":"0xc52E820d2D6207D18667a97e2c6Ac22eB26E803c",
+         "symbol":"tauUSDFv",
+         "decimals":8,
+         "chainId":747,
+         "logoURI":"https://assets.swap.w3us.site/assets/tauUSDFv.png"
       }
    ]
 }
