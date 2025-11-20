@@ -12,13 +12,6 @@
    "timestamp":"2025-11-17T12:00:00Z",
    "tokens":[
       {
-         "name":"Wrapped USD₮0",
-         "address":"0xcAB8F3ed8528655E0C2fad1C504c6CfEccf50B90",
-         "symbol":"WUSD₮0",
-         "decimals":6,
-         "chainId":2201
-      },
-      {
          "name":"USD₮0",
          "address":"0x78Cf24370174180738C5B8E352B6D14c83a6c9A9",
          "symbol":"USD₮0",
