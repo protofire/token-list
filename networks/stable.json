@@ -1,0 +1,24 @@
+{
+   "name":"Stable Token List",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   },
+   "logoURI":"",
+   "keywords":[
+      "tokens"
+   ],
+   "timestamp":"2025-11-24T16:00:00Z",
+   "tokens":[
+      {
+         "name":"USD₮0",
+         "address":"0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
+         "symbol":"USD₮0",
+         "decimals":6,
+         "chainId":2201,
+         "logoURI":"https://assets.swap.w3us.site/assets/USDT.png"
+      }
+      
+   ]
+}
