@@ -2,7 +2,7 @@
    "name":"Stable Swap Token List",
    "version":{
       "major":1,
-      "minor":2,
+      "minor":3,
       "patch":0
    },
    "logoURI":"",
@@ -16,14 +16,16 @@
          "address":"0x78Cf24370174180738C5B8E352B6D14c83a6c9A9",
          "symbol":"USD₮0",
          "decimals":6,
-         "chainId":2201
+         "chainId":2201,
+         "logoURI":"https://assets.swap.w3us.site/assets/USDT.png"
       },
       {
          "name":"USD₮0",
          "address":"0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
          "symbol":"USD₮0",
          "decimals":6,
-         "chainId":988
+         "chainId":988,
+         "logoURI":"https://assets.swap.w3us.site/assets/USDT.png"
       }
    ]
 }
