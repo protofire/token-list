@@ -2,7 +2,7 @@
    "name":"Flow Swap Token List",
    "version":{
       "major":5,
-      "minor":1,
+      "minor":2,
       "patch":0
    },
    "logoURI":"",
@@ -82,6 +82,22 @@
          "decimals":8,
          "chainId":747,
          "logoURI":"https://assets.swap.w3us.site/assets/tauUSDFv.png"
-      }
+      },
+      {
+      "name": "Ankr Staked FLOW EVM",
+      "address": "0x1b97100eA1D7126C4d60027e231EA4CB25314bdb",
+      "symbol": "ankrFLOWEVM",
+      "decimals": 18,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/ankrFLOW.png"
+    },
+    {
+      "name": "Safe Yields WFLOW Vault",
+      "address": "0xCBf9a7753F9D2d0e8141ebB36d99f87AcEf98597",
+      "symbol": "syWFLOWv",
+      "decimals": 8,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/WFLOW.svg"
+    }
    ]
 }
