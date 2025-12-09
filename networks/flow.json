@@ -1,87 +1,101 @@
 {
-   "name":"Flow Swap Token List",
-   "version":{
-      "major":5,
-      "minor":1,
-      "patch":0
-   },
-   "logoURI":"",
-   "keywords":[
-      "tokens"
-   ],
-   "timestamp":"2025-11-20T12:00:00Z",
-   "tokens":[
-      {
-         "name":"Wrapped Flow",
-         "address":"0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
-         "symbol":"WFLOW",
-         "decimals":18,
-         "chainId":545,
-         "logoURI":"https://assets.swap.w3us.site/assets/WFLOW.svg"
-      },
-      {
-         "name":"USDCf",
-         "address":"0x5e65b6B04fbA51D95409712978Cb91E99d93aE73",
-         "symbol":"USDCf",
-         "decimals":6,
-         "chainId":545,
-         "logoURI":"https://assets.swap.w3us.site/assets/USDCf.png"
-      },
-      {
-         "name":"Wrapped Flow",
-         "address":"0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
-         "symbol":"WFLOW",
-         "decimals":18,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/WFLOW.svg"
-      },
-      {
-         "name":"USD Flow",
-         "address":"0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED",
-         "symbol":"USDF",
-         "decimals":6,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/USDCf.png"
-      },
-      {
-         "name":"WETH",
-         "address":"0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-         "symbol":"WETH",
-         "decimals":18,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/WETH.png"
-      },
-      {
-         "name":"USDC",
-         "address":"0xF1815bd50389c46847f0Bda824eC8da914045D14",
-         "symbol":"USDC",
-         "decimals":6,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/USDC.png"
-      },
-      {
-         "name":"Wrapped BTC",
-         "address":"0x717DAE2BaF7656BE9a9B01deE31d571a9d4c9579",
-         "symbol":"WBTC",
-         "decimals":8,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/WBTC.png"
-      },
-      {
-         "name":"FlowALP USD",
-         "address":"0x213979bB8A9A86966999b3AA797C1fcf3B967ae2",
-         "symbol":"MOET",
-         "decimals":18,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/MOET.png"
-      },
-      {
-         "name":"Tau Labs USDF Vault",
-         "address":"0xc52E820d2D6207D18667a97e2c6Ac22eB26E803c",
-         "symbol":"tauUSDFv",
-         "decimals":8,
-         "chainId":747,
-         "logoURI":"https://assets.swap.w3us.site/assets/tauUSDFv.png"
-      }
-   ]
+  "name": "Flow Swap Token List",
+  "version": {
+    "major": 6,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": ["tokens"],
+  "timestamp": "2025-12-09T12:00:00Z",
+  "tokens": [
+    {
+      "name": "Wrapped Flow",
+      "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+      "symbol": "WFLOW",
+      "decimals": 18,
+      "chainId": 545,
+      "logoURI": "https://assets.swap.w3us.site/assets/WFLOW.svg"
+    },
+    {
+      "name": "USDCf",
+      "address": "0x5e65b6B04fbA51D95409712978Cb91E99d93aE73",
+      "symbol": "USDCf",
+      "decimals": 6,
+      "chainId": 545,
+      "logoURI": "https://assets.swap.w3us.site/assets/USDCf.png"
+    },
+    {
+      "name": "Wrapped Flow",
+      "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+      "symbol": "WFLOW",
+      "decimals": 18,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/WFLOW.svg"
+    },
+    {
+      "name": "USD Flow",
+      "address": "0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED",
+      "symbol": "USDF",
+      "decimals": 6,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/USDCf.png"
+    },
+    {
+      "name": "WETH",
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/WETH.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/USDC.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x717DAE2BaF7656BE9a9B01deE31d571a9d4c9579",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/WBTC.png"
+    },
+    {
+      "name": "FlowALP USD",
+      "address": "0x213979bB8A9A86966999b3AA797C1fcf3B967ae2",
+      "symbol": "MOET",
+      "decimals": 18,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/MOET.png"
+    },
+    {
+      "name": "Tau Labs USDF Vault",
+      "address": "0xc52E820d2D6207D18667a97e2c6Ac22eB26E803c",
+      "symbol": "tauUSDFv",
+      "decimals": 8,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/tauUSDFv.png"
+    },
+    {
+      "name": "Ankr Staked FLOW EVM",
+      "address": "0x1b97100eA1D7126C4d60027e231EA4CB25314bdb",
+      "symbol": "ankrFLOWEVM",
+      "decimals": 18,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/ankrFLOW.png"
+    },
+    {
+      "name": "Safe Yields WFLOW Vault",
+      "address": "0xCBf9a7753F9D2d0e8141ebB36d99f87AcEf98597",
+      "symbol": "syWFLOWv",
+      "decimals": 8,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/WFLOW.svg"
+    }
+  ]
 }
