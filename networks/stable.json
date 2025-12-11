@@ -66,6 +66,14 @@
       "logoURI": "https://assets.swap.w3us.site/assets/LBTC.png"
     },
     {
+      "name": "Bitcoin",
+      "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+      "symbol": "BTC.b",
+      "decimals": 8,
+      "chainId": 988,
+      "logoURI": "https://assets.swap.w3us.site/assets/BTCb.png"
+    },
+    {
       "name": "thBILL",
       "address": "0xfDD22Ce6D1F66bc0Ec89b20BF16CcB6670F55A5a",
       "symbol": "thBILL",
