@@ -1,0 +1,48 @@
+{
+   "name":"Zircuit Swap Token List",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   },
+   "logoURI":"",
+   "keywords":[
+      "tokens"
+   ],
+   "timestamp":"2025-12-15T12:00:00Z",
+   "tokens":[
+      {
+         "name":"Wrapped ETH",
+         "address":"0x4200000000000000000000000000000000000006",
+         "symbol":"WETH",
+         "decimals":18,
+         "chainId":48900,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
+      },
+      {
+         "name":"USD Coin",
+         "address":"0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+         "symbol":"USDC",
+         "decimals":6,
+         "chainId":48900,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
+      },
+      {
+         "name":"USDT",
+         "address":"0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+         "symbol":"USDT",
+         "decimals":6,
+         "chainId":48900,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/USDT.png"
+      },
+      {
+         "name":"Zircuit Token",
+         "address":"0xfd418e42783382E86Ae91e445406600Ba144D162",
+         "symbol":"ZRC",
+         "decimals":18,
+         "chainId":48900,
+         "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/ZRC.svg"
+      }
+   ]
+}
+
