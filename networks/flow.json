@@ -3,7 +3,7 @@
   "version": {
     "major": 5,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "",
   "keywords": ["tokens"],
@@ -99,7 +99,7 @@
     },
     {
       "name": "PYUSD0",
-      "address": "0xCBf9a7753F9D2d0e8141ebB36d99f87AcEf98597",
+      "address": "0x99aF3EeA856556646C98c8B9b2548Fe815240750",
       "symbol": "PYUSD0",
       "decimals": 6,
       "chainId": 747,
