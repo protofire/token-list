@@ -1,13 +1,13 @@
 {
   "name": "Flow Swap Token List",
   "version": {
-    "major": 6,
-    "minor": 2,
+    "major": 5,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "",
   "keywords": ["tokens"],
-  "timestamp": "2025-12-10T12:00:00Z",
+  "timestamp": "2025-12-22T12:00:00Z",
   "tokens": [
     {
       "name": "Wrapped Flow",
@@ -96,6 +96,14 @@
       "decimals": 20,
       "chainId": 747,
       "logoURI": "https://assets.swap.w3us.site/assets/WFLOW.svg"
+    },
+    {
+      "name": "PYUSD0",
+      "address": "0xCBf9a7753F9D2d0e8141ebB36d99f87AcEf98597",
+      "symbol": "PYUSD0",
+      "decimals": 6,
+      "chainId": 747,
+      "logoURI": "https://assets.swap.w3us.site/assets/PYUSD0.svg"
     }
   ]
 }
