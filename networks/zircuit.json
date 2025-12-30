@@ -22,7 +22,7 @@
       {
          "name":"USD Coin",
          "address":"0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
-         "symbol":"USDC",
+         "symbol":"USDC.e",
          "decimals":6,
          "chainId":48900,
          "logoURI":"https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
