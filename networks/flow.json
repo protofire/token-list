@@ -42,7 +42,7 @@
       "decimals": 6,
       "chainId": 545,
       "logoURI": "https://assets.swap.w3us.site/assets/USDC.png"
-    }
+    },
     {
       "name": "Wrapped Flow",
       "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
