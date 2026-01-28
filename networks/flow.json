@@ -18,9 +18,9 @@
       "logoURI": "https://assets.swap.w3us.site/assets/WFLOW.svg"
     },
     {
-      "name": "USDCf",
+      "name": "PYUSD0",
       "address": "0x5e65b6B04fbA51D95409712978Cb91E99d93aE73",
-      "symbol": "USDCf",
+      "symbol": "PYUSD0",
       "decimals": 6,
       "chainId": 545,
       "logoURI": "https://assets.swap.w3us.site/assets/USDCf.png"
