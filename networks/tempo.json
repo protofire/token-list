@@ -1,0 +1,43 @@
+{
+  "name":"Tempo Token List",
+  "version":{
+    "major":1,
+    "minor":0,
+    "patch":0
+  },
+  "logoURI":"",
+  "keywords":[
+    "tokens"
+  ],
+  "timestamp":"2026-01-29T10:00:00Z",
+  "tokens": [
+    {
+      "name": "pathUSD",
+      "decimals": 6,
+      "symbol": "pathUSD",
+      "address": "0x20c0000000000000000000000000000000000000",
+      "chainId": 42431
+    },
+    {
+      "name": "AlphaUSD",
+      "decimals": 6,
+      "symbol": "AlphaUSD",
+      "address": "0x20c0000000000000000000000000000000000000",
+      "chainId": 42431
+    },
+    {
+      "name": "BetaUSD",
+      "decimals": 6,
+      "symbol": "BetaUSD",
+      "address": "0x20c0000000000000000000000000000000000000",
+      "chainId": 42431
+    },
+    {
+      "name": "ThetaUSD",
+      "decimals": 6,
+      "symbol": "ThetaUSD",
+      "address": "0x20c0000000000000000000000000000000000000",
+      "chainId": 42431
+    }
+  ]
+}
