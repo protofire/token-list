@@ -128,6 +128,14 @@
       "decimals": 18,
       "chainId": 988,
       "logoURI": "https://assets.swap.w3us.site/assets/SFRXUSD.png"
+    },
+    {
+      "name": "Fefer",
+      "address": "0xd95983502014646efa8cd38fefc8a8188633f48c",
+      "symbol": "FEFER",
+      "decimals": 18,
+      "chainId": 988,
+      "logoURI": "https://assets.swap.w3us.site/assets/FEFER.webp"
     }
   ]
 }
