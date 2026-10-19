@@ -2,7 +2,7 @@
   "name": "Stable Swap Token List",
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "",
@@ -136,6 +136,14 @@
       "decimals": 18,
       "chainId": 988,
       "logoURI": "https://assets.swap.w3us.site/assets/FEFER.webp"
+    },
+    {
+      "name": "Pumper",
+      "address": "0xd86800d5b021f5d79350c2f742bbb1ecc010bf82",
+      "symbol": "PUMPER",
+      "decimals": 18,
+      "chainId": 988,
+      "logoURI": "https://assets.swap.w3us.site/assets/pumper_pumper_64.png"
     }
   ]
 }
