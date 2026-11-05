@@ -2,7 +2,7 @@
   "name": "Stable Swap Token List",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "",
@@ -144,6 +144,22 @@
       "decimals": 18,
       "chainId": 988,
       "logoURI": "https://assets.swap.w3us.site/assets/pumper_pumper_64.png"
+    },
+    {
+      "name": "PayPal USD",
+      "address": "0x28f1f38a9f7db1f769a71af0a13e8bace2ab0e9f",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "chainId": 988,
+      "logoURI": "https://assets.swap.w3us.site/assets/PYUSD.png"
+    },
+    {
+      "name": "Wrapped eETH",
+      "address": "0x60a08269e5f3406d8fd7892567d53188c7f75009",
+      "symbol": "weETH",
+      "decimals": 18,
+      "chainId": 988,
+      "logoURI": "https://assets.swap.w3us.site/assets/WEETH.png"
     }
   ]
 }
